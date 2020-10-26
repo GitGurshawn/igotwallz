@@ -1,0 +1,33 @@
+.about-home-btn {
+    padding-top: 25px;
+    padding-left: 30px;
+    pointer-events: auto;
+}
+
+.about-home-title {
+    text-decoration: none;
+}
+
+.faq-container {
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    left: 15%;
+    right: 15%;
+}
+
+@media (max-width: 1000px) {
+
+    .faq-container {
+        margin: auto;
+        top: 25%;
+        left: auto;
+        right: auto;
+    }
+}
+
+
+.faq-row-wrapper h2{
+    margin: auto;
+    text-align: center;
+}
