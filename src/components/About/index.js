@@ -51,7 +51,7 @@ function About() {
     <div class="pop-in">
       <nav class="navbar">
         <Link to={{ pathname: '/'}}><button className="about-home-btn" type="button" class="btn btn-dark">Home</button></Link>
-        <div class="home-title">igotwalls</div>
+        <div class="home-title">igotwallz</div>
       </nav>
 
       <div className="faq-container">

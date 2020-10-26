@@ -7,7 +7,7 @@ function Home() {
     <div class="pop-in">
 
       <nav class="navbar">
-        <div class="home-title">igotwalls</div>
+        <div class="home-title">igotwallz</div>
         <Link to={{ pathname: '/about'}}><button type="button" class="btn btn-dark">?</button></Link>
       </nav>
      
