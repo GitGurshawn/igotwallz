@@ -42,7 +42,6 @@
     padding-top: 40px;
     padding-right: 40px;
     max-width: 100%;
-    transition: transform .3s ease;
 }
 
 .map-img:hover img {
