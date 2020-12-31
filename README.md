@@ -11,4 +11,4 @@ I'm currently not taking contributions, but feel free to fork the project.
 Credit to [Riot Games](https://www.riotgames.com/en) for the images and [Brayn T. for the font](https://www.dafont.com/valorant.font).
 
 ## License
-Released under the [MIT License](LICENSE)
+Released under the [MIT License](LICENSE).
